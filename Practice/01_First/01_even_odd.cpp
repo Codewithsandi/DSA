@@ -13,11 +13,11 @@ int main()
 
     if (number % 2 == 0)
     {
-        cout << "even number";
+        cout << "even number" << endl;
     }
     else
     {
-        cout << "odd number";
+        cout << "odd number" << endl;
     }
 
     return 0;
